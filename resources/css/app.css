@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+
+/*@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@200;300;400;600;700&display=swap');*/
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+.reg {
+    background-image: url('/images/brooke-lark-4J059aGa5s4-unsplash.jpg');
+}
